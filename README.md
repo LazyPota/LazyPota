@@ -1,70 +1,126 @@
-<p align="center">
-  <img src="https://github.com/LazyPota.png" width="140" alt="Rei" />
+<div align="center">
+  <img src="https://github.com/LazyPota.png" width="120" alt="Rei's Avatar" style="border-radius: 50%;" />
+  
+  # 👋 Hi, I'm Rei
+  
+  **11th Grade Vocational Student** | **Machine Learning Enthusiast** | **Mobile & Backend Developer**
+  
+  [![GitHub followers](https://img.shields.io/github/followers/LazyPota?label=Follow&style=for-the-badge&color=0969da)](https://github.com/LazyPota)
+  [![GitHub stars](https://img.shields.io/github/stars/LazyPota?style=for-the-badge&color=ffd33d)](https://github.com/LazyPota)
+  [![Profile views](https://komarev.com/ghpvc/?username=LazyPota&style=for-the-badge&color=brightgreen)](https://github.com/LazyPota)
 
-  <h1 align="center">Hi, I'm Rei 👋</h1>
-  <p align="center">11th grade vocational student | Interests: Machine Learning, Mobile & Backend</p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-  <p align="center">
-    [![GitHub followers](https://img.shields.io/github/followers/LazyPota?label=Follow&style=social)](https://github.com/LazyPota)
-    [![GitHub stars](https://img.shields.io/github/stars/LazyPota?style=flat)](https://github.com/LazyPota)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPota&layout=compact&theme=dark)](https://github.com/LazyPota)
-  </p>
-</p>
+## 🚀 About Me
+
+I'm a passionate 11th-grade vocational student dedicated to building practical solutions through code. My journey focuses on creating impactful applications that solve real-world problems, particularly in environmental sustainability and financial literacy.
+
+```python
+class Rei:
+    def __init__(self):
+        self.name = "Rei"
+        self.role = "Student Developer"
+        self.location = "Indonesia"
+        self.interests = ["Machine Learning", "Mobile Development", "Backend Systems"]
+        self.current_focus = "Building AI-powered solutions for sustainability"
+    
+    def get_skills(self):
+        return {
+            "languages": ["Python", "Java", "Kotlin", "JavaScript"],
+            "frameworks": ["FastAPI", "Android SDK"],
+            "ml_tools": ["TensorFlow", "scikit-learn", "OpenCV"],
+            "tools": ["Git", "Docker", "Hostinger"]
+        }
+```
+
+## 🎯 Current Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌱 EcotionBuddy</h3>
+      <p><strong>Android App for Waste Classification</strong></p>
+      <p>An AI-powered mobile application that helps users identify different types of waste and provides recycling guidance. Features on-device image classification and educational resources.</p>
+      <p><em>Tech Stack: Android, Kotlin, TensorFlow Lite, Computer Vision</em></p>
+    </td>
+    <td width="50%">
+      <h3>💰 Financial Health Score</h3>
+      <p><strong>ML Microservice with FastAPI</strong></p>
+      <p>A machine learning model served as a REST API that predicts financial health scores based on user inputs. Designed for scalability and easy integration.</p>
+      <p><em>Tech Stack: Python, FastAPI, scikit-learn, Docker</em></p>
+    </td>
+  </tr>
+</table>
+
+### 🎨 OSIS Website
+A modern, responsive single-page website for SMK Garuda Nusantara's student council, featuring clean design and optimized performance.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LazyPota&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPota&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LazyPota&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🎯 What I'm Learning
+
+- 🧠 **Advanced Machine Learning**: Deep diving into neural networks and computer vision
+- 📱 **Mobile Development**: Mastering Android architecture patterns and UI/UX design  
+- ⚡ **Backend Optimization**: Exploring microservices architecture and API design
+- 🔍 **DevOps Practices**: Learning CI/CD pipelines and cloud deployment strategies
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always excited to work on innovative projects and learn from fellow developers! Here's how you can reach me:
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafilpersada618@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PotaaaKui)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LazyPota)
+
+</div>
+
+## 💡 Open for Collaboration
+
+Looking for opportunities to collaborate on:
+- 🤖 **AI/ML Projects**: Computer vision, NLP, or data science initiatives
+- 📱 **Mobile Applications**: Android apps with real-world impact
+- 🔧 **Backend Services**: API development and microservices architecture
+- 🌍 **Sustainability Tech**: Environmental solutions through technology
 
 ---
 
-# Hi, I'm Rei
-
-I am an 11th grade vocational high school student focusing on practical projects in computer science. I am building experience in machine learning, mobile development, and backend systems.
-
-## 🔭 Current focus
-
-* Building **EcotionBuddy**, an Android app for waste classification and recycling education using AI
-* Developing a Financial Health Score microservice with FastAPI
-* Creating a modern one-page website for OSIS at SMK Garuda Nusantara
-
-## 🧰 Skills
-
-* **Languages & frameworks**: Python, Java/Kotlin (Android), FastAPI, basic JavaScript
-* **Machine Learning**: image classification, preprocessing, basic deep learning
-* **Tools & DevOps**: Git, GitHub, Docker (basic), Hostinger
-
-## 📂 Selected projects
-
-### EcotionBuddy
-
-Android app that classifies waste and provides recycling guidance. Includes an on-device image classifier and educational resources.
-
-### Financial Health Score
-
-A machine learning model served as a FastAPI microservice. It predicts a simple financial health score from a few numeric inputs.
-
-### One-page OSIS Website
-
-A clean, modern single-page site built for student council use, designed for easy hosting and updates.
-
-## 🚀 How to use this profile
-
-* Check pinned repositories to see code samples and project demos
-* Open issues or pull requests if you want to collaborate or suggest improvements
-
-## 📫 Contact
-
-* Email: [rafilpersada618@gmail.com](mailto:rafilpersada618@gmail.com)
-* X (Twitter): [https://x.com/PotaaaKui](https://x.com/PotaaaKui)
-* GitHub: [https://github.com/LazyPota](https://github.com/LazyPota)
-
-## 📈 GitHub stats (add to README to show live stats)
-
-```
-[![Rei's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyPota&show_icons=true&theme=dark)](https://github.com/LazyPota)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPota&layout=compact&theme=dark)](https://github.com/LazyPota)
-```
-
-## 📌 Call to action
-
-If you want to collaborate on mobile apps, ML experiments, or backend prototypes, open an issue or send me an email.
-
-## 📝 License
-
-This README content is released under Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+  
+  <p><em>⭐ If you find my projects interesting, don't forget to star them!</em></p>
+  
+  ![Made with ❤️ by Rei](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Rei-red?style=for-the-badge)
+</div>
