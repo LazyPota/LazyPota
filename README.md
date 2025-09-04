@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/LazyPota.png" width="120" alt="Rei's Avatar" style="border-radius: 50%;" />
   
-  # 👋 Hi, I'm Rei
+  # 👋 Hi, I'm LazyPota
   
   **11th Grade Vocational Student** | **Machine Learning Enthusiast** | **Mobile & Backend Developer**
   
@@ -65,10 +65,18 @@ A modern, responsive single-page website for SMK Garuda Nusantara's student coun
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Motoko](https://img.shields.io/badge/Motoko-6366F1?style=for-the-badge&logo=internet-computer&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ML & DevOps Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -122,5 +130,5 @@ Looking for opportunities to collaborate on:
   
   <p><em>⭐ If you find my projects interesting, don't forget to star them!</em></p>
   
-  ![Made with ❤️ by Rei](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Rei-red?style=for-the-badge)
+  ![Made with ❤️ by Pota](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Rei-red?style=for-the-badge)
 </div>
