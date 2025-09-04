@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/LazyPota.png" width="120" alt="Rei's Avatar" style="border-radius: 50%;" />
   
-  # 👋 Hi, I'm LazyPota
+  # 👋 Hi, I'm Rei
   
   **11th Grade Vocational Student** | **Machine Learning Enthusiast** | **Mobile & Backend Developer**
   
@@ -115,6 +115,10 @@ I'm always excited to work on innovative projects and learn from fellow develope
 
 ## 💡 Open for Collaboration
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200">
+</div>
+
 Looking for opportunities to collaborate on:
 - 🤖 **AI/ML Projects**: Computer vision, NLP, or data science initiatives
 - 📱 **Mobile Applications**: Android apps with real-world impact
@@ -130,5 +134,5 @@ Looking for opportunities to collaborate on:
   
   <p><em>⭐ If you find my projects interesting, don't forget to star them!</em></p>
   
-  ![Made with ❤️ by Pota](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Rei-red?style=for-the-badge)
+  ![Made with ❤️ by Rei](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Rei-red?style=for-the-badge)
 </div>
