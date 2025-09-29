@@ -3,7 +3,7 @@
   
   # 👋 Hi, I'm LazyPota
   
-  **11th Grade Vocational Student** | **Machine Learning Enthusiast** | **Mobile & Backend Developer**
+  **12th Grade Vocational Student** | **Machine Learning Enthusiast** | **Mobile & Backend Developer**
   
   [![GitHub followers](https://img.shields.io/github/followers/LazyPota?label=Follow&style=for-the-badge&color=0969da)](https://github.com/LazyPota)
   [![GitHub stars](https://img.shields.io/github/stars/LazyPota?style=for-the-badge&color=ffd33d)](https://github.com/LazyPota)
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate 11th-grade vocational student dedicated to building practical solutions through code. My journey focuses on creating impactful applications that solve real-world problems, particularly in environmental sustainability and financial literacy.
+I'm a passionate 12th-grade vocational student dedicated to building practical solutions through code. My journey focuses on creating impactful applications that solve real-world problems, particularly in environmental sustainability and financial literacy.
 
 ```python
 class Rei:
