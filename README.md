@@ -36,7 +36,7 @@ class Rei:
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibunayka&theme=onedark&show_icons=true&hide_border=true&count_private=true"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LazyPota&theme=onedark&show_icons=true&hide_border=true&count_private=true"  />
 </div>
 
 ## 🎯 Current Projects
