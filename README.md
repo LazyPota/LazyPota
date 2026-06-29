@@ -1,33 +1,48 @@
+
 <div align="center">
-  <img src="https://github.com/LazyPota.png" width="120" alt="Rafli's Avatar" />
 
-  # 👋 Hi, I'm LazyPota / Rafli
+# 「PERSONAL DATA」
 
-  **12th Grade Vocational Student** • **Machine Learning Nerd** • **Mobile & Backend Dev**
+### LazyPota / Rafli
 
-  <div align="center">
-    <img src="[INSERT_YOUR_GIF_HERE]" width="200">
-  </div>
+`12th Grade Vocational Student` • `Machine Learning Nerd` • `Mobile & Backend Dev`
 
-  [![GitHub followers](https://img.shields.io/github/followers/LazyPota?label=Follow&style=for-the-badge&color=0969da)](https://github.com/LazyPota)
-  [![GitHub stars](https://img.shields.io/github/stars/LazyPota?style=for-the-badge&color=ffd33d)](https://github.com/LazyPota)
-  [![Profile views](https://komarev.com/ghpvc/?username=LazyPota&style=for-the-badge&color=brightgreen)](https://komarev.com/ghpvc/?username=LazyPota)
+<img src="[INSERT_YOUR_GIF_HERE]" width="220">
+
+[![GitHub Followers](https://img.shields.io/github/followers/LazyPota?style=for-the-badge&color=2F81F7&labelColor=0D1117)](https://github.com/LazyPota)
+[![GitHub Stars](https://img.shields.io/github/stars/LazyPota?style=for-the-badge&color=2F81F7&labelColor=0D1117)](https://github.com/LazyPota)
+![Profile Views](https://komarev.com/ghpvc/?username=LazyPota&style=for-the-badge&color=2F81F7)
+
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 👨‍💻 About Me
+# PERSONAL DATA
 
-I'm Rafli, a 12th-grade vocational student from Indonesia who spends way too much time building things with code.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ NAME          Rafli                                          │
+│ CODENAME      LazyPota                                       │
+│ LOCATION      Indonesia                                      │
+│ ROLE          12th Grade Vocational Student                  │
+│ SPECIALTY     Machine Learning • Mobile • Backend            │
+│ STATUS        Online                                         │
+│ TIME          25:00                                          │
+└──────────────────────────────────────────────────────────────┘
+```
 
-Most of my time goes into machine learning, Android development, backend services, and trying out new technologies. I enjoy taking random ideas and turning them into something people can actually use.
+I'm Rafli, a vocational high school student from Indonesia who enjoys turning ideas into real software.
+
+Most of my projects revolve around machine learning, Android development, and backend systems. I like experimenting, breaking things, figuring out why they broke, and rebuilding them into something better.
 
 ```python
 class Rafli:
+
     def __init__(self):
         self.name = "Rafli"
-        self.role = "12th Grade Vocational Student"
+        self.alias = "LazyPota"
         self.location = "Indonesia"
+        self.role = "12th Grade Vocational Student"
 
     def get_skills(self):
         return {
@@ -49,7 +64,7 @@ class Rafli:
             "database": [
                 "MongoDB"
             ],
-            "ml": [
+            "machine_learning": [
                 "TensorFlow"
             ],
             "tools": [
@@ -59,98 +74,133 @@ class Rafli:
         }
 ```
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 <div align="center">
-  <img src="[INSERT_YOUR_GIF_HERE]" width="200">
+<img src="[INSERT_YOUR_GIF_HERE]" width="220">
 </div>
 
-## 🚀 Completed Projects
+# COMPLETED MISSIONS
 
-### 🌱 EcotionBuddy
-An **Android application that has been fully built** for waste classification using **Kotlin** and **TensorFlow Lite**. It helps users identify waste types from images and encourages better recycling habits.
+## ECOTIONBUDDY
 
-**Tech:** Kotlin • Android • TensorFlow Lite
+Android application for waste classification using Kotlin and TensorFlow Lite.
 
----
+```
+STATUS      COMPLETE
+TYPE        Android Application
+```
 
-### 💰 Financial Health Score
-A **completed machine learning microservice** built with **Python**, **FastAPI**, and **Docker**. It predicts financial health scores through a REST API.
+Stack
 
-**Tech:** Python • FastAPI • Docker • Machine Learning
-
----
-
-### 🏫 OSIS Website
-A **finished single-page website** developed for the student council of **SMK Garuda Nusantara**, focusing on a clean UI and responsive experience.
-
-**Tech:** HTML • CSS • JavaScript
+`Kotlin` `Android` `TensorFlow Lite`
 
 ---
 
-## 🛠 Tech Stack
+## FINANCIAL HEALTH SCORE
 
-### Languages
+Machine Learning microservice that predicts financial health scores through a REST API.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Motoko](https://img.shields.io/badge/Motoko-29ABE2?style=for-the-badge)
+```
+STATUS      COMPLETE
+TYPE        Backend + Machine Learning
+```
 
-### Frameworks & Tools
+Stack
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+`Python` `FastAPI` `Docker`
 
 ---
 
-## 📊 GitHub Stats
+## OSIS WEBSITE
+
+Single-page website built for SMK Garuda Nusantara Student Council.
+
+```
+STATUS      COMPLETE
+TYPE        Web Application
+```
+
+Stack
+
+`HTML` `CSS` `JavaScript`
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# TOOLSET
+
+### LANGUAGES
+
+![Python](https://img.shields.io/badge/Python-2F81F7?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2F81F7?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-2F81F7?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2F81F7?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-2F81F7?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2F81F7?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-2F81F7?style=for-the-badge&logo=go&logoColor=white)
+![Motoko](https://img.shields.io/badge/Motoko-2F81F7?style=for-the-badge)
+
+### FRAMEWORKS
+
+![FastAPI](https://img.shields.io/badge/FastAPI-2F81F7?style=for-the-badge&logo=fastapi&logoColor=white)
+![Android](https://img.shields.io/badge/Android-2F81F7?style=for-the-badge&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-2F81F7?style=for-the-badge&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2F81F7?style=for-the-badge&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2F81F7?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2F81F7?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2F81F7?style=for-the-badge&logo=git&logoColor=white)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LazyPota&show_icons=true&theme=tokyonight&count_private=true"/>
+# PERFORMANCE LOG
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPota&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LazyPota&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPota&layout=compact&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LazyPota&theme=tokyonight"/>
 
 </div>
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 <div align="center">
-  <img src="[INSERT_YOUR_GIF_HERE]" width="200">
+<img src="[INSERT_YOUR_GIF_HERE]" width="220">
 </div>
 
-## 📚 Currently Learning
+# CURRENT OBJECTIVES
 
-- 🧠 Neural Networks
-- 📱 Android Architecture
-- ⚙️ Backend Microservices
-- 🚀 CI/CD Pipelines
+```text
+[01] Deep Neural Networks
 
----
+[02] Android Architecture
 
-## 📫 Connect with Me
+[03] Backend Microservices
+
+[04] CI/CD Pipelines
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# COMMUNICATION
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafilpersada618@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PotaaaKui)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LazyPota)
+[![Email](https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafilpersada618@gmail.com)
+
+[![X](https://img.shields.io/badge/X-2F81F7?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PotaaaKui)
+
+[![GitHub](https://img.shields.io/badge/GitHub-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LazyPota)
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-> *"I like building things, breaking them, figuring out why they broke, then making them better."*
+> "Every day is another chance to build something better."
 
 ![Made by Rafli](https://img.shields.io/badge/Made%20by-Rafli-2F81F7?style=for-the-badge&logo=github&logoColor=white)
 
