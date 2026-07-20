@@ -9,7 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/LazyPota?style=for-the-badge&color=ffd33d)](https://github.com/LazyPota)
 [![Profile views](https://komarev.com/ghpvc/?username=LazyPota&style=for-the-badge&color=brightgreen)](https://github.com/LazyPota)
 
-<img src="D:\Project\LazyPota\tumblr-gif.gif" width="100%">
+<img src="./tumblr-gif.gif" width="100%">
 
 <p><em>"May you simply fold your wings and rest"</em></p>
 </div>
@@ -38,7 +38,7 @@ return {
 
 # GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LazyPota&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LazyPota&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=86400"  />
 </div>
 
 ## Featured Projects
@@ -114,8 +114,8 @@ return {
 ## GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LazyPota&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPota&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LazyPota&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPota&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
 <div align="center">
@@ -156,7 +156,7 @@ Looking for opportunities to collaborate on:
 ---
 
 <div align="center">
-<img src="D:\Project\LazyPota\tumblr-gif.gif" width="100%">
+<img src="./tumblr-gif.gif" width="100%">
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
