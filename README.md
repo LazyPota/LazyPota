@@ -36,6 +36,9 @@ return {
 }
 ```
 
+# My Portfolio Site
+https://potaportfolio.netlify.app/ (Still under development, UI is definitely vibe-coded :b)
+
 # GitHub Stats:
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=LazyPota&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=86400"  />
