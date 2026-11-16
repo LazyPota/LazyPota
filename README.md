@@ -3,7 +3,7 @@
 
 # Ciaossu, I'm LazyPota
 
-**12th Grade Vocational Student** | **Machine Learning Student Researcher** | **Mobile & Backend Developer** | **Robotics Enthusiast**
+**Computer Science Undergraduate** | **Machine Learning Student Researcher** | **Mobile & Backend Developer** | **Robotics Enthusiast**
 
 [![GitHub followers](https://img.shields.io/github/followers/LazyPota?label=Follow&style=for-the-badge&color=0969da)](https://github.com/LazyPota)
 [![GitHub stars](https://img.shields.io/github/stars/LazyPota?style=for-the-badge&color=ffd33d)](https://github.com/LazyPota)
@@ -16,12 +16,12 @@
 
 ## About Me
 
-I'm a passionate 12th-grade vocational student deeply invested in research, particularly in Mathematics and Machine Learning. My journey focuses on creating impactful applications and exploring the intersections of software and hardware. In my free time, I love diving into robotics, developing robust backend systems, creating mobile apps, and continuously learning new aspects of software development.
+I'm a passionate learner deeply invested in research, particularly in Mathematics and Machine Learning. My journey focuses on creating impactful applications and exploring the intersections of software and hardware. In my free time, I love diving into robotics, developing robust backend systems, creating mobile apps, and continuously learning new aspects of software development.
 
 ```python
-class Rei:
+class Pota:
 def __init__(self):
-self.name = "Rei"
+self.name = "Pota"
 self.role = "Student Researcher & Developer"
 self.location = "Indonesia"
 self.interests = ["Mathematics", "Machine Learning", "Robotics", "Backend Systems", "Mobile Development"]
